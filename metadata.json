@@ -1,0 +1,8 @@
+{
+  "name": "CineMatch AI - Movie & Series Scene Finder",
+  "description": "Instantly identify any movie or TV series from a single screenshot or short video clip using Gemini AI. Get exact scene details, timestamps, streaming providers, cast, and soundtracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
